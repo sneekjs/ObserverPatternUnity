@@ -165,7 +165,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 158009710}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 47f885fbabd5c9543ae9d3e6cc7a4e6f, type: 3}
+  m_Script: {fileID: 11500000, guid: c5736feab26aaa04294e77fc8e64e06b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   _poiName: Cube
@@ -258,7 +258,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 502618394}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f7e04cbaa3ffc46479b33ad8dd84af0e, type: 3}
+  m_Script: {fileID: 11500000, guid: c45f1c04a2ce16342ad8a7c39e2a600d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!4 &502618396
@@ -318,7 +318,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 681012496}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 47f885fbabd5c9543ae9d3e6cc7a4e6f, type: 3}
+  m_Script: {fileID: 11500000, guid: c5736feab26aaa04294e77fc8e64e06b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   _poiName: Cylinder
@@ -520,7 +520,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 816831236}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 47f885fbabd5c9543ae9d3e6cc7a4e6f, type: 3}
+  m_Script: {fileID: 11500000, guid: c5736feab26aaa04294e77fc8e64e06b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   _poiName: Sphere
