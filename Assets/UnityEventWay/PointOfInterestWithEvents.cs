@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PointOfInterestWithEvents : MonoBehaviour
+public class PointOfInterestWithEvents : MonoBehaviour //OBSERVABLE
 {
     //Static so you don't need a reference to the correct point of interest
     public static event Action<PointOfInterestWithEvents> OnPointOfInterestEntered;

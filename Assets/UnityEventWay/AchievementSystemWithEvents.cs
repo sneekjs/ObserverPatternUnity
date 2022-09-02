@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class AchievementSystemWithEvents : MonoBehaviour
+public class AchievementSystemWithEvents : MonoBehaviour //OBSERVER
 {
     // Start is called before the first frame update
     void Start()
